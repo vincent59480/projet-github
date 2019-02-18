@@ -1,0 +1,7 @@
+
+git config --global user.name " vincent Robin"
+git config --global user.email " v.robin59@gmail.com"
+git init --> initialisation de git et création du fichier masquer .git
+git remote add origin https://github.com/vincent59480/projet-github.git  --> dit au gitlocal ou non doit pousser les fichiers
+git branch --> affiche les branches
+git add * -->permet d'indexer les nouveaux fichiers
